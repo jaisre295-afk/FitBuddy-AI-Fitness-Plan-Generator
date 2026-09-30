@@ -58,8 +58,6 @@ FitBuddy/
 ├── requirements.txt
 └── README.md
 
-## 🚀 Live Demo
+🚀 Live Demo
 
-👉 [Run FitBuddy Live](## 🚀 Live Demo
-
-👉 [Run FitBuddy Live](https://fitbuddy-ai-fitness-plan-generator-1-ivb8.onrender.com/))
+👉 [Run FitBuddy Live](https://fitbuddy-ai-fitness-plan-generator-1-ivb8.onrender.com)
