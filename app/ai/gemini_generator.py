@@ -17,7 +17,7 @@ if not API_KEY:
 
 
 # Gemini client
-client = genai.Client(api_key=API_KEY)
+client = genai.Client(vertexai=True, api_key=API_KEY)
 
 
 # Use the model that is currently working

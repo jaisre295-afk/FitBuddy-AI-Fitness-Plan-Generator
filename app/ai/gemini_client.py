@@ -13,7 +13,7 @@ def get_gemini_client():
             "Please add your Gemini API key to the .env file."
         )
 
-    return genai.Client(api_key=settings.GEMINI_API_KEY)
+    return genai.Client(vertexai=True, api_key=settings.GEMINI_API_KEY)
 
 
 def generate_content(prompt: str) -> str:
